@@ -1,1 +1,1 @@
-# learningPython
+# Estudo de python iniciante pelo site Codédex
