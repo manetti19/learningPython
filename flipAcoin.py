@@ -1,5 +1,5 @@
 
-import random
+import random     # nao conhecia essa random
 
 num = random.randint(0, 1)   # Generates a random number that's either 0 or 1
 
